@@ -12,6 +12,11 @@ function NameList()
     name: 'charl',
     education: 
 }
+                    {
+    id: '333',
+    name: 'Jemnny',
+    education: 
+}
 ];
     return(
     <div>{
